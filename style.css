@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(0, 255, 255);
+    border-radius: 20px;
+    padding: 10px;
+}
+header b {
+    margin: 10px;
+}
+
+h1 {
+    color: blue;
+    border: 5px solid blueviolet;
+    padding: 15px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+footer p {
+    background-color: greenyellow;
+    padding: 20px;
+}
+
+nav {
+    background-color: green;
+    border: green;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: dashed;
+    margin-right: 40px;
+    font-size: 20px;  
+}
+
+.product {
+    background-color: greenyellow;
+    padding: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+.season {
+    border: 5px solid cyan;
+    border-radius: 20px;
+}
+
+.button {
+    border:3px solid blue;
+    padding: 10px;
+    text-decoration: dashed;
+}
+
